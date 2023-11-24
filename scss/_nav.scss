@@ -35,13 +35,13 @@
       flex-grow: 0;
 
       width: 100%;
-      margin-bottom: auto;
       .navbar-nav {
         flex-direction: column;
 
         width: 100%;
         .nav-item {
           display: block;
+          padding-bottom: 0px;
           .nav-link {
             display: block;
           }
