@@ -34,7 +34,7 @@
 
 .hero-section::after {
     content: "";
-    background: linear-gradient(90deg, #000000, #ffffff);
+    background: linear-gradient(90deg, black ,white);
     position: absolute;
     top: 0;
     right: 0;
@@ -384,7 +384,7 @@ a {
     }
     .hero-section::after {
         content: "";
-        background: linear-gradient(180deg, #000000, #ffffff);
+        background: linear-gradient(180deg,  black ,white);
         position: absolute;
         top: 0;
         right: 0;
