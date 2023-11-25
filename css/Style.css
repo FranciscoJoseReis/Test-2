@@ -34,13 +34,13 @@
 
 .hero-section::after {
     content: "";
-    background: linear-gradient(90deg, black ,white);
+    background: linear-gradient(90deg, black ,#cccccc);
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-    opacity: 0.65;
+    opacity: 0.70;
 }
 
 .hero-section .container {
@@ -86,7 +86,7 @@
     bottom: 20px;
     right: 20px;
     background-color: black;
-    color: white;
+    color: #cccccc;
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -177,7 +177,7 @@ iframe {
     font-size: 0.870rem;
     background-color: black;
     border: none;
-    color: white;
+    color: #cccccc;
     padding: 0rem 0.5rem;
     text-align: center;
     text-decoration: none;
@@ -337,7 +337,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-    color: #bd5d38 !important
+    color: #844127 !important
 }
 
 a:active,
@@ -384,7 +384,7 @@ a {
     }
     .hero-section::after {
         content: "";
-        background: linear-gradient(180deg,  black ,white);
+        background: linear-gradient(180deg,  black ,#cccccc);
         position: absolute;
         top: 0;
         right: 0;
