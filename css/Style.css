@@ -50,10 +50,11 @@
 
 .custom-block {
     border: 10px solid #000000;
+    background-color: #cccccc;
     border-radius: 100%;
     position: absolute;
     z-index: 2;
-    bottom: -60px;
+    top: -60px;
     right: -60px;
     padding: 50px 90px 50px 50px;
     width: 360px;
@@ -72,7 +73,7 @@
     border: 10px solid #000000;
     border-radius: 100%;
     position: absolute;
-    top: -60px;
+    top: 270px;
     right: 20px;
     left: 0;
     width: 120px;
